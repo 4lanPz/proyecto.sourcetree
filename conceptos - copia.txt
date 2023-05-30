@@ -1,0 +1,19 @@
+Clase:
+Es un conjunto de objetos que tienen estructura y comportamientos comunes
+Objetos:
+Un ente abstracto que tiene su comportamiento y estado
+Metodo:
+Es quien tiene las instrucciones para un objeto
+Atributo:
+Es lo que permite que un elemento objeto se asocie a este indicando una caracteristica
+Setters:
+Funcion void que fija un valor de un atributo
+Getters:
+Metodo que permite acceder al valor de un atributo
+Puntero:
+Es una variable en la cual se almacena una dirección de memoria de un objeto
+Constructor:
+Metodo para crear e inicializar un objeto creado a partir de una clase
+Github:
+Es una plataforma creada para alojar código de las aplicaciones de cualquier desarrollador web
+a
